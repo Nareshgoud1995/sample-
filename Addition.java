@@ -8,6 +8,7 @@ public class Addition {
 	public static void main(String[] args) {
 		 Addition add=new  Addition();
 		 add.sum(24, 20);
-	}
+//1st program	
+}
 
 }
